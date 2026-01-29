@@ -63,4 +63,16 @@ crime-pattern-detection/
 ├── crime_detection.ipynb
 ├── README.md
 ├── dataset.csv   
-└── images      
+└── images
+
+## 📈 Visual Insights
+
+### Year-wise Crime Trend
+![Year-wise Crime Trend](images/year_wise_trend.png)
+
+### Area-wise Crime Distribution
+![Area-wise Crime](images/area_wise_crime.png)
+
+### Property Stolen vs Recovered
+![Property Analysis](images/property_analysis.png)
+
